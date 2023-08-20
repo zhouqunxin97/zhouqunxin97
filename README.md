@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zhouqunxin97
+- 👀 I’m interested in Software Engineering undergrad focusing on Ruby on Rails. 
+- 🌱 I’m currently learning Eager to contribute to and learn from open-source projects.
